@@ -4,7 +4,7 @@ I'm Attah (he/him) - a 2nd-year **Computer Science student** who specializes in 
 
 Here are the tools and technologies I work with:  
 
-[![My Skills](https://skillicons.dev/icons?i=python,flask,java,postgresql,mysql,matlab,vscode,pycharm,intellij)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,flask,java,postgresql,matlab,vscode,pycharm,intellij)](https://skillicons.dev)
 
 
 💡 **I work on Python and Java-related projects in my free time both as a means of skills acquisition and as harmless fun (nerd alert!🚨🤓)** 
