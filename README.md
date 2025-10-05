@@ -20,29 +20,30 @@ I'm **Attah (he/him)** — a 3rd-year Computer Science student currently learnin
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
 
+--
 
 ### 🌐 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/attah-sunday1)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/attah-sunday1)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?logo=x&logoColor=white&style=for-the-badge)](https://www.twitter.com/athsocial)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/athsocial)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:attahsundayjr@gmail.com)
 
-
+--
 
 ### 📊 GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=athsnd1&show_icons=true&theme=tokyonight&hide_border=false)
 
+--
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=athsnd1&layout=compact&theme=tokyonight&hide_border=false)
 
+--
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=athsnd1&theme=tokyo-night&hide_border=false)
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=athsnd1&theme=tokyonight)](https://git.io/streak-stats)
-
+--
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=athsnd1&theme=tokyonight&margin-w=10&no-frame=false)
 
