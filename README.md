@@ -43,10 +43,10 @@ I'm **Attah (he/him)** — a 3rd-year Computer Science student currently learnin
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=athsnd1&theme=react-dark&hide_border=false)
 
 
-![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=athsnd1&theme=tokyo-night&hide_border=false))
+![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=athsnd1&theme=tokyo-night&hide_border=false)
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=athsnd1&theme=tokyonight&hide_border=false)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=athsnd1&theme=meta-light&short_numbers=true)](https://git.io/streak-stats)
 
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=athsnd1&theme=tokyonight&margin-w=10&no-frame=false)
