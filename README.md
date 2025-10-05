@@ -1,6 +1,6 @@
 ## 👋 Hey there, I'm **Attah**
 
-3rd-year CS student | Exploring web development (**React** ⚛️, **Flask** 🐍, and beyond) | Building academic & personal projects | Open to new opportunities and collaborations 
+3rd-year CS student | Exploring web development (**React**, **Flask**, and beyond) | Building academic & personal projects | Open to new opportunities and collaborations 
 
 ---
 
