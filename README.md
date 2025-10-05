@@ -1,9 +1,10 @@
-## Hey there! 👋  
-I'm **Attah (he/him)** — a 3rd-year Computer Science student currently learning Web Development and working on fun side projects in my spare time.  
+## 👋 Hey there! I'm **Attah**
+
+### 3rd-year CS student | Exploring web development (React, Flask, and beyond) | Building academic & personal projects | Open to new opportunities and collaborations 
 
 ---
 
-### 🧰 Tools and technologies I use:
+### 🧰 Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css&logoColor=white&style=for-the-badge)
@@ -22,7 +23,7 @@ I'm **Attah (he/him)** — a 3rd-year Computer Science student currently learnin
 
 ---
 
-### 🌐 Connect with me:
+### 🌐 Get in Touch:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/attah-sunday1)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?logo=x&logoColor=white&style=for-the-badge)](https://www.twitter.com/athsocial)
@@ -32,6 +33,8 @@ I'm **Attah (he/him)** — a 3rd-year Computer Science student currently learnin
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/athsnd1/)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/athsnd1)
 
+![Profile views](https://komarev.com/ghpvc/?username=athsnd1&label=Profile%20views&color=0e75b6&style=flat)
+
 ---
 
 ### 📊 GitHub Stats:
@@ -40,14 +43,9 @@ I'm **Attah (he/him)** — a 3rd-year Computer Science student currently learnin
 
 ---
 
-### 👨‍💻 Languages:
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=athsnd1&layout=compact&theme=tokyonight&hide_border=false)
 
 ---
-
-
-### 📈 Activities:
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=athsnd1&theme=tokyo-night&hide_border=false)
 
