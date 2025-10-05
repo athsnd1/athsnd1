@@ -41,6 +41,10 @@ I'm **Attah (he/him)** — a 3rd-year Computer Science student currently learnin
 
 ---
 
+![GitHub Contribution Grid Snake](https://github.com/athsnd1/athsnd1/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=athsnd1&theme=tokyo-night&hide_border=false)
 
 ---
