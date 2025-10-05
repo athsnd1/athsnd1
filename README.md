@@ -28,6 +28,8 @@ I'm **Attah (he/him)** — a 3rd-year Computer Science student currently learnin
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?logo=x&logoColor=white&style=for-the-badge)](https://www.twitter.com/athsocial)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/athsocial)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:attahsundayjr@gmail.com)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21408912/attah)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/athsnd1/)
 
 ---
 
