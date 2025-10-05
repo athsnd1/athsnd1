@@ -41,10 +41,6 @@ I'm **Attah (he/him)** — a 3rd-year Computer Science student currently learnin
 
 ---
 
-![Contributions](https://github.com/users/athsnd1/contributions)
-
----
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=athsnd1&theme=tokyo-night&hide_border=false)
 
 ---
