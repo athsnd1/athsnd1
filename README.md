@@ -1,6 +1,6 @@
-## 👋 Hey there! I'm **Attah**
+## 👋 Hey there, I'm **Attah**
 
-### 3rd-year CS student | Exploring web development (React, Flask, and beyond) | Building academic & personal projects | Open to new opportunities and collaborations 
+3rd-year CS student | Exploring web development (**React** ⚛️, **Flask** 🐍, and beyond) | Building academic & personal projects | Open to new opportunities and collaborations 
 
 ---
 
@@ -33,7 +33,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/athsnd1/)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/athsnd1)
 
-![Profile views](https://komarev.com/ghpvc/?username=athsnd1&label=Profile%20views&color=0e75b6&style=flat)
+👀 ![Profile views](https://komarev.com/ghpvc/?username=athsnd1&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
