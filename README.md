@@ -49,4 +49,6 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=athsnd1&theme=tokyo-night&hide_border=false)
 
+---
 
+![GitHub Streak](https://streak-stats.demolab.com?user=athsnd1&theme=github-dark&hide_border=false)
