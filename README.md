@@ -34,7 +34,7 @@ I'm **Attah (he/him)** — a 3rd-year Computer Science student currently learnin
 
 ### 📊 GitHub Stats:
 
-![Attah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=athsnd1&show_icons=true&theme=tokyonight&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=athsnd1&show_icons=true&theme=tokyonight&hide_border=false)
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=athsnd1&layout=compact&theme=tokyonight&hide_border=false)
@@ -43,12 +43,12 @@ I'm **Attah (he/him)** — a 3rd-year Computer Science student currently learnin
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=athsnd1&theme=react-dark&hide_border=false)
 
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=athsnd1&theme=tokyo-night&hide_border=false))
+![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=athsnd1&theme=tokyo-night&hide_border=false))
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=athsnd1&theme=tokyonight&hide_border=false)
 
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=athsnd1&theme=tokyonight&margin-w=10&no-frame=false)
+![Trophies](https://github-profile-trophy.vercel.app/?username=athsnd1&theme=tokyonight&margin-w=10&no-frame=false)
 
 
