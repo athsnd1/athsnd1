@@ -3,7 +3,7 @@ I'm **Attah (he/him)** — a 3rd-year Computer Science student currently learnin
 
 ---
 
-### 🧰 Here are the tools and technologies I work with:
+### 🧰 Tools and technologies I use:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css&logoColor=white&style=for-the-badge)
@@ -39,9 +39,14 @@ I'm **Attah (he/him)** — a 3rd-year Computer Science student currently learnin
 
 ---
 
+### 👨‍💻 Languages:
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=athsnd1&layout=compact&theme=tokyonight&hide_border=false)
 
 ---
+
+
+### 📈 Activities:
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=athsnd1&theme=tokyo-night&hide_border=false)
 
