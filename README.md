@@ -21,7 +21,7 @@ I'm **Attah (he/him)** — a 3rd-year Computer Science student currently learnin
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
 
----
+
 
 ### 🤝 Connect with me:
 
@@ -30,19 +30,21 @@ I'm **Attah (he/him)** — a 3rd-year Computer Science student currently learnin
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/athsocial)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:attahsundayjr@gmail.com)
 
----
 
----
 
 ### 📊 GitHub Stats:
 
-![Attah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=athsnd1&show_icons=true&theme=tokyonight&hide_border=true)
+![Attah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=athsnd1&show_icons=true&theme=tokyonight&hide_border=false)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AttahSunday&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=athsnd1&layout=compact&theme=tokyonight&hide_border=false)
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AttahSunday&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=athsnd1&theme=tokyonight&hide_border=false)
 
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AttahSunday&theme=tokyonight&margin-w=10&no-frame=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=athsnd1&theme=tokyonight&margin-w=10&no-frame=false)
+
+
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=athsnd1&theme=tokyo-night&hide_border=false))
