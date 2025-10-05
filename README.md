@@ -18,9 +18,7 @@ I'm **Attah (he/him)** — a 3rd-year Computer Science student currently learnin
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
-
 
 
 ### 🌐 Connect with me:
@@ -46,7 +44,7 @@ I'm **Attah (he/him)** — a 3rd-year Computer Science student currently learnin
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=athsnd1&theme=tokyo-night&hide_border=false)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=athsnd1&theme=meta-light&short_numbers=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=athsnd1&theme=tokyonight)](https://git.io/streak-stats)
 
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=athsnd1&theme=tokyonight&margin-w=10&no-frame=false)
