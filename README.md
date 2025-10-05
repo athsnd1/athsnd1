@@ -25,13 +25,13 @@
 
 ### 🌐 Get in Touch:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin)](https://www.linkedin.com/in/attah-sunday1)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=social&logo=x)](https://www.twitter.com/athsocial)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram)](https://www.instagram.com/athsocial)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=social&logo=gmail)](mailto:attahsundayjr@gmail.com)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=social&logo=stack-overflow)](https://stackoverflow.com/users/21408912/attah)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=social&logo=leetcode)](https://leetcode.com/u/athsnd1/)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=social&logo=reddit)](https://www.reddit.com/user/athsnd1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/attah-sunday1)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=x&logoColor=white)](https://www.twitter.com/athsocial)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/athsocial)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:attahsundayjr@gmail.com)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21408912/attah)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/athsnd1/)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/athsnd1)
 
 🔎 ![Profile views](https://komarev.com/ghpvc/?username=athsnd1&label=Profile%20views&color=0e75b6&style=flat)
 
