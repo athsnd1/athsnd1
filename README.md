@@ -16,6 +16,7 @@ I'm **Attah (he/him)** — a 3rd-year Computer Science student currently learnin
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
@@ -28,3 +29,20 @@ I'm **Attah (he/him)** — a 3rd-year Computer Science student currently learnin
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?logo=x&logoColor=white&style=for-the-badge)](https://www.twitter.com/athsocial)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/athsocial)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:attahsundayjr@gmail.com)
+
+---
+
+---
+
+### 📊 GitHub Stats:
+
+![Attah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=athsnd1&show_icons=true&theme=tokyonight&hide_border=true)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AttahSunday&layout=compact&theme=tokyonight&hide_border=true)
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AttahSunday&theme=tokyonight&hide_border=true)
+
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AttahSunday&theme=tokyonight&margin-w=10&no-frame=true)
