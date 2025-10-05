@@ -38,9 +38,6 @@ I'm **Attah (he/him)** — a 3rd-year Computer Science student currently learnin
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=athsnd1&layout=compact&theme=tokyonight&hide_border=false)
 
 
-![Contributions](https://github.com/athsnd1.png?tab=overview&from=2025-01-01&to=2025-12-31)
-
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=athsnd1&theme=tokyo-night&hide_border=false)
 
 
