@@ -13,11 +13,11 @@ I'm **Attah (he/him)** — a 3rd-year Computer Science student currently learnin
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=matlab&logoColor=white&style=for-the-badge)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
 
 ---
@@ -25,6 +25,6 @@ I'm **Attah (he/him)** — a 3rd-year Computer Science student currently learnin
 ### 🤝 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/attah-sunday1)
-[![Twitter](https://img.shields.io/badge/x-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://www.twitter.com/athsocial)
+[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?logo=x&logoColor=white&style=for-the-badge)](https://www.twitter.com/athsocial)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/athsocial)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:attahsundayjr@gmail.com)
