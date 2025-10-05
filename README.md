@@ -23,7 +23,7 @@ I'm **Attah (he/him)** — a 3rd-year Computer Science student currently learnin
 
 
 
-### 🤝 Connect with me:
+### 🌐 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/attah-sunday1)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?logo=x&logoColor=white&style=for-the-badge)](https://www.twitter.com/athsocial)
@@ -40,10 +40,10 @@ I'm **Attah (he/him)** — a 3rd-year Computer Science student currently learnin
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=athsnd1&layout=compact&theme=tokyonight&hide_border=false)
 
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=athsnd1&theme=react-dark&hide_border=false)
+![Contributions](https://github.com/athsnd1.png?tab=overview&from=2025-01-01&to=2025-12-31)
 
 
-![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=athsnd1&theme=tokyo-night&hide_border=false)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=athsnd1&theme=tokyo-night&hide_border=false)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=athsnd1&theme=meta-light&short_numbers=true)](https://git.io/streak-stats)
