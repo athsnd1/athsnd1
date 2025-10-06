@@ -37,10 +37,8 @@
 ---
 
 ### 🔎
-![Profile views](https://komarev.com/ghpvc/?username=athsnd1&label=Profile%20views&color=0e75b6&style=flat&logo=eye&logoColor=white)
-![status](https://img.shields.io/badge/currently-online-brightgreen?style=flat&logo=discord&logoColor=white)] ![playing](https://img.shields.io/badge/playing-nothing%20rn-blue?style=flat&logo=steam)
-![coding](https://img.shields.io/badge/coding-nothing%20rn-blue?style=flat&logo=gnometerminal)
-![listening](https://img.shields.io/badge/listening_to-Drake%20rn-green?style=flat&logo=spotify)
+![eye](https://img.shields.io/badge/-👁️%20Profile%20Views-0e75b6?style=flat-square)
+![count](https://komarev.com/ghpvc/?username=athsnd1&label=&color=0e75b6&style=flat-square) ![status](https://img.shields.io/badge/currently-online-brightgreen?style=flat&logo=dot&logoColor=green) ![playing](https://img.shields.io/badge/playing-nothing%20rn-blue?style=flat&logo=steam) ![coding](https://img.shields.io/badge/coding-nothing%20rn-blue?style=flat&logo=gnometerminal) ![listening](https://img.shields.io/badge/listening_to-Drake%20rn-green?style=flat&logo=spotify)
 
 ---
 
