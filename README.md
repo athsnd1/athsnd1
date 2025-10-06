@@ -1,5 +1,4 @@
-## <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Waving Hand" width="50" height="50" style="vertical-align:middle;"> 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Attah&colors=auto)
+## <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Waving Hand" width="50" height="50" style="vertical-align:middle;"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=1E90FF&center=false&vCenter=true&width=435&lines=Hey+there%2C+I'm+Attah&colors=auto)
 
 3rd-year CS student | Exploring web development | Building academic & personal projects | Open to new opportunities and collaborations 
 
