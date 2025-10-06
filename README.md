@@ -19,6 +19,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 
 ---
@@ -33,7 +34,13 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/athsnd1/)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/athsnd1)
 
+---
+
 ### 🔎 ![Profile views](https://komarev.com/ghpvc/?username=athsnd1&label=Profile%20views&color=0e75b6&style=flat)
+![status](https://img.shields.io/badge/currently-online-brightgreen?style=flat-square)
+![scrolling](https://img.shields.io/badge/playing-Twitter%20right%20now-lightblue?style=flat-square&logo=x)
+![coding](https://img.shields.io/badge/coding-python%20right%20now-blue?style=flat-square&logo=visualstudiocode)
+![listening](https://img.shields.io/badge/listening_to-Drake%20right%20now-green?style=flat-square&logo=spotify)
 
 ---
 
