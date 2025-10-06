@@ -1,4 +1,4 @@
-## <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Waving Hand" width="40" height="40" style="vertical-align:middle;"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Attah&colors=auto)
+## <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Waving Hand" width="50" height="50" style="vertical-align:middle;"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Attah&colors=auto)
 
 3rd-year CS student | Exploring web development | Building academic & personal projects | Open to new opportunities and collaborations 
 
@@ -33,11 +33,6 @@
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21408912/attah)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/athsnd1/)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/athsnd1)
-
----
-
-### 🔎 
-![Profile Views](https://komarev.com/ghpvc/?username=athsnd1&label=Profile%20Views&color=brightgreen&style=flat) ![status](https://img.shields.io/badge/currently-online-brightgreen?style=flat&logo=statuspage) ![playing](https://img.shields.io/badge/playing-nothing%20rn-blue?style=flat&logo=steam) ![coding](https://img.shields.io/badge/coding-nothing%20rn-blue?style=flat&logo=gnometerminal) ![listening](https://img.shields.io/badge/listening_to-Drake%20rn-green?style=flat&logo=spotify)
 
 ---
 
