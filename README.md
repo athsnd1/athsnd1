@@ -1,7 +1,4 @@
-## <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" 
-     alt="Animated Waving Hand" 
-     width="50" height="50" 
-     style="vertical-align:middle;"> Hey there, I'm **Attah** 
+## <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Waving Hand" width="50" height="50" style="vertical-align:middle;"> Hey there, I'm **Attah** 
 
 3rd-year CS student | Exploring web development | Building academic & personal projects | Open to new opportunities and collaborations 
 
