@@ -37,10 +37,10 @@
 ---
 
 ### 🔎 ![Profile views](https://komarev.com/ghpvc/?username=athsnd1&label=Profile%20views&color=0e75b6&style=flat)
-![status](https://img.shields.io/badge/currently-online-brightgreen?style=flat-square)
-![scrolling](https://img.shields.io/badge/playing-Twitter%20right%20now-lightblue?style=flat-square&logo=x)
-![coding](https://img.shields.io/badge/coding-python%20right%20now-blue?style=flat-square&logo=visualstudiocode)
-![listening](https://img.shields.io/badge/listening_to-Drake%20right%20now-green?style=flat-square&logo=spotify)
+### ![status](https://img.shields.io/badge/currently-online-brightgreen?style=flat-square)
+### ![scrolling](https://img.shields.io/badge/scrolling-Twitter%20r%20n-lightblue?style=flat-square&logo=x)
+### ![coding](https://img.shields.io/badge/coding-python%20r%20n-blue?style=flat-square&logo=vscode)
+### ![listening](https://img.shields.io/badge/listening_to-Drake%20r%20n-green?style=flat-square&logo=spotify)
 
 ---
 
