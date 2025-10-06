@@ -22,7 +22,7 @@ Tools & Technologies: ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169
 
 Libraries & Frameworks: ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat)
-[Flask](https://img.shields.io/badge/Flask-444444?logo=flask&logoColor=white&style=flat)
+![Flask](https://img.shields.io/badge/Flask-444444?logo=flask&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
 
