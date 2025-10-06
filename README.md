@@ -36,7 +36,7 @@
 
 ---
 
-### 🔎
+### 🔎 
 ![Profile Views](https://komarev.com/ghpvc/?username=athsnd1&label=Profile%20Views&color=brightgreen&style=flat) ![status](https://img.shields.io/badge/currently-online-brightgreen?style=flat&logo=statuspage) ![playing](https://img.shields.io/badge/playing-nothing%20rn-blue?style=flat&logo=steam) ![coding](https://img.shields.io/badge/coding-nothing%20rn-blue?style=flat&logo=gnometerminal) ![listening](https://img.shields.io/badge/listening_to-Drake%20rn-green?style=flat&logo=spotify)
 
 ---
