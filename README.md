@@ -18,7 +18,7 @@ Languages: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logo
 Tools & Technologies: ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white&style=flat)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![Figma](http://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat)
@@ -45,7 +45,7 @@ Libraries & Frameworks: ![Spring Boot](https://img.shields.io/badge/Spring_Boot-
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/athsnd1)
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=athsnd1&label=Profile%20Views&color=brightgreen&style=flat) ![status](https://img.shields.io/badge/currently-online-brightgreen?style=flat&logo=statuspage) ![playing](https://img.shields.io/badge/playing-chess%20rn-81B64C?style=flat&logo=chessdotcom) ![listening](https://img.shields.io/badge/listening_to-Drake-green?style=flat&logo=spotify)
+![Profile Views](https://komarev.com/ghpvc/?username=athsnd1&label=Profile%20Views&color=blue&style=flat) ![status](https://img.shields.io/badge/currently-online-brightgreen?style=flat&logo=statuspage) ![playing](https://img.shields.io/badge/playing-chess%20rn-81B64C?style=flat&logo=chessdotcom) ![listening](https://img.shields.io/badge/listening_to-Drake-green?style=flat&logo=spotify)
 
 
 ---
