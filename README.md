@@ -2,6 +2,7 @@
 
 3rd-year CS student | Exploring web development | Building academic & personal projects | Open to new opportunities and collaborations 
 
+---
 
 ### 🧰 Tech Stack:
 
@@ -10,7 +11,7 @@ Languages: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logo
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![SQL](https://img.shields.io/badge/SQL-0064a5?style=flat&logo=redis&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0064a5?style=flat&logo=microsoftaccess&logoColor=white)
 
 Tools & Technologies: ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
@@ -25,6 +26,7 @@ Libraries & Frameworks: ![Spring Boot](https://img.shields.io/badge/Spring_Boot-
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
 
+---
 
 ### 🌐 Socials:
 
@@ -36,6 +38,7 @@ Libraries & Frameworks: ![Spring Boot](https://img.shields.io/badge/Spring_Boot-
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/athsnd1/)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/athsnd1)
 
+---
 
 ### 📊 GitHub Stats:
 
