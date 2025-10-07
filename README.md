@@ -3,7 +3,7 @@
 3rd-year CS student | Exploring web development | Building academic & personal projects | Open to new opportunities and collaborations 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=athsnd1&label=Profile%20Views&color=3A025B&style=flat) 
+![Profile Views](https://komarev.com/ghpvc/?username=athsnd1&label=Profile%20Views&color=blue&style=flat) 
 
  
 ---
@@ -25,7 +25,6 @@ Tools & Technologies:
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![Figma](http://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white&style=flat)
 
@@ -48,7 +47,7 @@ Libraries & Frameworks:
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:attahsundayjr@gmail.com)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21408912/attah)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/athsnd1/)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/athsnd1)
+
 
 ![status](https://img.shields.io/badge/currently-online-brightgreen?style=flat&logo=statuspage)
 ![playing](https://img.shields.io/badge/playing-chess-81B64C?style=flat&logo=chessdotcom) ![listening](https://img.shields.io/badge/listening_to-Drake-1ED760?style=flat&logo=spotify)
@@ -59,13 +58,13 @@ Libraries & Frameworks:
 
 ### 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=athsnd1&show_icons=true&theme=tokyonight&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=athsnd1&show_icons=true&theme=github_dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=athsnd1&layout=compact&theme=tokyonight&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=athsnd1&layout=compact&theme=github_dark&hide_border=false)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=athsnd1&theme=github-dark&hide_border=false)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=athsnd1&theme=tokyo-night&hide_border=false)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=athsnd1&theme=github-dark&hide_border=false)
 
 
 ---
