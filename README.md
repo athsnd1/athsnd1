@@ -2,6 +2,9 @@
 
 3rd-year CS student | Exploring web development | Building academic & personal projects | Open to new opportunities and collaborations 
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=athsnd1&label=Profile%20Views&color=purple&style=flat) ![status](https://img.shields.io/badge/currently-online-brightgreen?style=flat&logo=statuspage)
+
  
 ---
 
@@ -47,8 +50,7 @@ Libraries & Frameworks:
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/athsnd1/)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/athsnd1)
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=athsnd1&label=Profile%20Views&color=blue&style=flat) ![status](https://img.shields.io/badge/currently-online-brightgreen?style=flat&logo=statuspage) ![playing](https://img.shields.io/badge/playing-chess-81B64C?style=flat&logo=chessdotcom) ![listening](https://img.shields.io/badge/listening_to-Drake-1ED760?style=flat&logo=spotify)
+![playing](https://img.shields.io/badge/playing-chess-81B64C?style=flat&logo=chessdotcom) ![listening](https://img.shields.io/badge/listening_to-Drake-1ED760?style=flat&logo=spotify)
 
 
 ---
