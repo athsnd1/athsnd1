@@ -9,7 +9,7 @@
 ---
 
 
-### 🧰 Tech Stack:
+### <h1 align="left"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> Tech Stack:</h1>
 
 **Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
@@ -41,11 +41,31 @@
 
 ### 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=athsnd1&show_icons=true&theme=github_dark&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=athsnd1&show_icons=true&theme=highcontrast&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=athsnd1&layout=compact&theme=github_dark&hide_border=false)
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athsnd1&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=athsnd1&theme=highcontrast&hide_border=false" alt="Repos Per Language">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=athsnd1&theme=highcontrast&hide_border=false" alt="Most Commit Language">
+    </td>
+  </tr>
+</table>
+
+</div>
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=athsnd1&theme=github-dark&hide_border=false)
+
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athsnd1&theme=highcontrast&hide_border=true">
+
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=athsnd1&theme=github-dark&hide_border=false)
 
@@ -53,7 +73,7 @@
 ---
 
 
-### 🌐 Connect With Me:
+### <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px"> Connect With Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linked-in.com/in/attah-sunday1)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=x&logoColor=white)](https://www.twitter.com/athsocial)
@@ -64,3 +84,6 @@
 
 
 ---
+
+
+### 🗃️ Check Out My Repos ⬇️
