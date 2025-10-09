@@ -1,5 +1,6 @@
 ## <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Waving Hand" width="50" height="50" style="vertical-align:middle;"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=1E90FF&center=false&vCenter=true&width=435&lines=Hey+there%2C+I'm+Attah&colors=auto)
 
+
 3rd-year CS student | Exploring web development | Building academic & personal projects | Open to new opportunities and collaborations 
 
 
@@ -41,6 +42,7 @@
 
 ### 📊 GitHub Stats:
 
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=athsnd1&show_icons=true&theme=highcontrast&hide_border=false)
 
 <div align="center">
@@ -61,13 +63,12 @@
 </div>
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=athsnd1&theme=github-dark&hide_border=false)
-
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athsnd1&theme=highcontrast&hide_border=true">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=athsnd1&custom_title=Attah's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=athsnd1&theme=github-dark&hide_border=false)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=athsnd1&theme=github_dark&hide_border=false)
 
 
 ---
