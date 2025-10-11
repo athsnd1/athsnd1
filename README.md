@@ -10,8 +10,7 @@
 ---
 
 
-### <h1 align="left"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> Tech Stack:</h1>
-
+### 🧰 Tech Stack:
 **Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat)
@@ -20,7 +19,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![SQL](https://img.shields.io/badge/SQL-0064a5?style=flat&logo=databricks&logoColor=white)
 
-**Libraries & Frameworks:**
+**Frameworks & Libraries:**
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat)
 ![Flask](https://img.shields.io/badge/Flask-444444?logo=flask&logoColor=white&style=flat)
