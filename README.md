@@ -47,19 +47,19 @@
 ### 📊 GitHub Stats:
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=athsnd1&show_icons=true&theme=merko&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=athsnd1&show_icons=true&theme=github_dark&hide_border=false)
 
 <div align="center">
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athsnd1&hide=html&hide_border=true&layout=compact&langs_count=8&theme=merko" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athsnd1&hide=html&hide_border=true&layout=compact&langs_count=8&theme=github_dark" alt="Top Languages">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=athsnd1&theme=merko&hide_border=false" alt="Repos Per Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=athsnd1&theme=github_dark&hide_border=false" alt="Repos Per Language">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=athsnd1&theme=merko&hide_border=false" alt="Most Commit Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=athsnd1&theme=github_dark&hide_border=false" alt="Most Commit Language">
     </td>
   </tr>
 </table>
@@ -67,10 +67,7 @@
 </div>
 
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athsnd1&theme=merko&hide_border=true">
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=athsnd1&theme=merko&hide_border=false)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athsnd1&theme=github_dark&hide_border=false">
 
 
 ---
