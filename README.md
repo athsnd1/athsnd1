@@ -12,9 +12,14 @@
 
 ### 🧰 Tech Stack:
 
-| **Programming Languages** | **Frontend Development** | **Backend Development** | **Databases** | **DevOps & Tools** | **Design & UI Tools** |
-|:--------------------------:|:------------------------:|:------------------------:|:--------------:|:------------------:|:----------------------:|
-| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)<br>![Java](https://img.shields.io/badge/Java-007396?logo=coffeescript&logoColor=white&style=flat-square)<br>![SQL](https://img.shields.io/badge/SQL-0064a5?style=flat-square&logo=databricks&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)<br>![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css&logoColor=white&style=flat-square)<br>![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square)<br>![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)<br>![Flask](https://img.shields.io/badge/Flask-444444?logo=flask&logoColor=white&style=flat-square)<br>![Jinja2](https://img.shields.io/badge/Jinja2-B41717?logo=jinja&logoColor=white&style=flat-square) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)<br>![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)<br>![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)<br>![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![Figma](http://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)<br>![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white&style=flat-square)<br>![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=flat-square&logo=gimp&logoColor=white) |
+| **Category** | **Technologies & Tools** |
+|:-------------|:--------------------------|
+| **Programming Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) <br> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) <br> ![Java](https://img.shields.io/badge/Java-007396?logo=coffeescript&logoColor=white&style=flat-square) <br> ![SQL](https://img.shields.io/badge/SQL-0064a5?style=flat-square&logo=databricks&logoColor=white) |
+| **Frontend Development** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square) <br> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css&logoColor=white&style=flat-square) |
+| **Backend Development** | ![Flask](https://img.shields.io/badge/Flask-444444?logo=flask&logoColor=white&style=flat-square) <br> ![Jinja2](https://img.shields.io/badge/Jinja2-B41717?logo=jinja&logoColor=white&style=flat-square) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square) <br> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square) <br> ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) |
+| **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) <br> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Design & UI Tools** | ![Figma](http://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat-square) <br> ![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white&style=flat-square) <br> ![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=flat-square&logo=gimp&logoColor=white) |
 
 ---
 
@@ -58,5 +63,3 @@
 
 ---
 
-
-### 🗃️ Check Out My Repos ⬇️
