@@ -42,7 +42,7 @@
 </div>
 
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athsnd1&theme=github_dark&hide_border=false">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=athsnd1&custom_title=Attah's%20GitHub%20Activity%20Graph&hide_border=false&border_radius=15&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=1F6FEB&area_color=161B22&title_color=C9D1D9&area=true" alt="GitHub Activity Graph" />
 
 
 ---
