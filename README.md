@@ -1,5 +1,5 @@
-## <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Waving Hand" width="50" height="50" style="vertical-align:middle;"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=1E90FF&center=false&vCenter=true&width=435&lines=Hey+there%2C+I'm+Attah&colors=auto)
-
+<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Waving Hand" width="50" height="50" style="vertical-align:middle;"> ![](https://readme-typing-svg.demolab.com) <br>
+## Hey there! I'm Attah
 
 3rd-year CS student | Exploring web development | Building academic & personal projects | Open to new opportunities and collaborations 
 
@@ -7,6 +7,36 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=athsnd1&label=Profile%20Views&color=blue&style=flat-square) 
 
  
+---
+
+### 🚀 My Projects:
+**Completed:**
+# ARS:
+A simple GUI flight booking application created using Java, Swing, PostgreSQL and FlatLaf. Allows users to create accounts, log in (as admins or users), manage flights and users (for admins), book flights (for regular users), and also export flight tickets in various file formats. <br>
+**Tools:** `Java` `Swing` `PostgreSQL` `FlatLaf` `JDBC` <br>
+[View Project Repo →](https://github.com/athsnd1/ARS)
+
+**Ongoing/Future Projects:**
+# BioCAS:
+A biometric class attendance management system to be built with JavaScipt and other tools. <br>
+**Tools:** `JavaScript`
+
+# FlashCache:
+A fast light-weight Redis clone to be built with C++. <br>
+**Tools:** `C++`
+
+# Pronto:
+Generates classes from an Ontology given the Ontology IRI. <br>
+**Tools:** `Java` `Protege`
+
+# Iota:
+A URL shortener. <br>
+**Tools:** `JavaScript`
+
+# QURL:
+A tool for generating QR codes from URLs. <br>
+**Tools:** `JavaScript`
+
 ---
 
 
