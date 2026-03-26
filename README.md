@@ -3,37 +3,37 @@
 
 3rd-year CS student | Exploring web development | Building academic & personal projects | Open to new opportunities and collaborations 
 
-
 ![Profile Views](https://komarev.com/ghpvc/?username=athsnd1&label=Profile%20Views&color=blue&style=flat-square) 
 
- 
 ---
 
 ### 🚀 My Projects:
-**Completed:**
-# ARS:
+**Completed:** <br>
+- **ARS:** <br>
 A simple GUI flight booking application created using Java, Swing, PostgreSQL and FlatLaf. Allows users to create accounts, log in (as admins or users), manage flights and users (for admins), book flights (for regular users), and also export flight tickets in various file formats. <br>
 **Tools:** `Java` `Swing` `PostgreSQL` `FlatLaf` `JDBC` <br>
 [View Project Repo →](https://github.com/athsnd1/ARS)
 
-**Ongoing/Future Projects:**
-# BioCAS:
+#
+
+**Ongoing/Future Projects:** <br>
+- **BioCAS:** <br>
 A biometric class attendance management system to be built with JavaScipt and other tools. <br>
 **Tools:** `JavaScript`
 
-# FlashCache:
+- **FlashCache:** <br>
 A fast light-weight Redis clone to be built with C++. <br>
 **Tools:** `C++`
 
-# Pronto:
+- **Pronto:** <br>
 Generates classes from an Ontology given the Ontology IRI. <br>
 **Tools:** `Java` `Protege`
 
-# Iota:
+- **Iota:** <br>
 A URL shortener. <br>
 **Tools:** `JavaScript`
 
-# QURL:
+- **QURL:** <br>
 A tool for generating QR codes from URLs. <br>
 **Tools:** `JavaScript`
 
@@ -58,11 +58,11 @@ A tool for generating QR codes from URLs. <br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css&logoColor=white&style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
-![Celery](https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white&style=for-the-badge)
 
 🗄️ **Databases & Caching**: <br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white&style=for-the-badge)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
 
@@ -70,7 +70,6 @@ A tool for generating QR codes from URLs. <br>
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=for-the-badge)
 
 ---
 
