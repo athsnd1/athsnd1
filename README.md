@@ -16,6 +16,10 @@ A simple GUI flight booking application created using Java, Swing, PostgreSQL an
 #
 
 **Ongoing/Future Projects:** <br>
+- **FourZeroFour:** <br>
+A simple HTTP Server to be built with C++. <br>
+**Tools:** `C++`
+  
 - **BioCAS:** <br>
 A biometric class attendance management system to be built with JavaScipt and other tools. <br>
 **Tools:** `JavaScript`
@@ -24,9 +28,9 @@ A biometric class attendance management system to be built with JavaScipt and ot
 A fast light-weight Redis clone to be built with C++. <br>
 **Tools:** `C++`
 
-- **Pronto:** <br>
+- **jsontology:** <br>
 Generates classes from an Ontology given the Ontology IRI. <br>
-**Tools:** `Java` `Protege`
+**Tools:** `JavaScript` `Protege`
 
 - **Iota:** <br>
 A URL shortener. <br>
