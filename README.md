@@ -13,6 +13,12 @@ A simple GUI flight booking application created using Java, Swing, PostgreSQL an
 **Tools:** `Java` `Swing` `PostgreSQL` `FlatLaf` `JDBC` <br>
 [View Project Repo →](https://github.com/athsnd1/ARS)
 
+- **CETRO:** <br>
+A Cost-Effective Transportation Service and Routing Ontology built using Protege with SPARQL integrated to retrieve data from the Ontology.<br>
+**Tools:** `Protege` `SPARQL` <br>
+[View Project Repo →](https://github.com/athsnd1/CETRO)
+
+
 #
 
 **Ongoing/Future Projects:** <br>
