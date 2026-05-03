@@ -9,13 +9,15 @@
 ### 🚀 My Projects:
 **Completed:** <br>
 - **ARS:** <br>
-A simple GUI flight booking application created using Java, Swing, PostgreSQL and FlatLaf. Allows users to create accounts, log in (as admins or users), manage flights and users (for admins), book flights (for regular users), and also export flight tickets in various file formats. <br>
-**Tools:** `Java` `Swing` `PostgreSQL` `FlatLaf` `JDBC` <br>
+A simple GUI flight booking application created using Java, Swing, PostgreSQL and FlatLaf. Allows users to create accounts, log in (as admins or users), manage flights and users (for admins), book flights (for regular users), and also export flight tickets in various file formats. <br><br>
+**Tools:** `Java` `Swing` `PostgreSQL` `FlatLaf` `JDBC` <br> <br>
 [View Project Repo →](https://github.com/athsnd1/ARS)
 
+<br>
+
 - **CETRO:** <br>
-A Cost-Effective Transportation Service and Routing Ontology built using Protege with SPARQL integrated to retrieve data from the Ontology.<br>
-**Tools:** `Protege` `SPARQL` <br>
+A Cost-Effective Transportation Service and Routing Ontology built using Protege with SPARQL integrated to retrieve data from the Ontology.<br><br>
+**Tools:** `Protege` `SPARQL` <br><br>
 [View Project Repo →](https://github.com/athsnd1/CETRO)
 
 
@@ -62,20 +64,16 @@ A tool for generating QR codes from URLs. <br>
 🌐 **Web Technologies**: <br>
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css&logoColor=white&style=for-the-badge)
 
 🗄️ **Databases & Caching**: <br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white&style=for-the-badge)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
 
 🛠️ **Developer Tools**: <br>
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
 
 ---
@@ -113,7 +111,7 @@ A tool for generating QR codes from URLs. <br>
 ### <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px"> Connect With Me:
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://www.twitter.com/athsocial)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:attahsundayjr@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:athsnd.dev@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/athsnd1/)
 
 
