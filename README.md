@@ -24,6 +24,14 @@ A Cost-Effective Transportation Service and Routing Ontology built using Protege
 #
 
 **Ongoing/Future Projects:** <br>
+- **QURL:** <br>
+A tool for generating QR codes from URLs. <br>
+**Tools:** `JavaScript`
+
+- **Iota:** <br>
+A URL shortener. <br>
+**Tools:** `JavaScript`
+  
 - **FourZeroFour:** <br>
 A simple HTTP Server to be built with C++. <br>
 **Tools:** `C++`
@@ -36,18 +44,6 @@ A biometric class attendance management system to be built with JavaScipt and ot
 A fast light-weight Redis clone to be built with C++. <br>
 **Tools:** `C++`
 
-- **jsontology:** <br>
-Generates classes from an Ontology given the Ontology IRI. <br>
-**Tools:** `JavaScript` `Protege`
-
-- **Iota:** <br>
-A URL shortener. <br>
-**Tools:** `JavaScript`
-
-- **QURL:** <br>
-A tool for generating QR codes from URLs. <br>
-**Tools:** `JavaScript`
-
 ---
 
 
@@ -55,16 +51,12 @@ A tool for generating QR codes from URLs. <br>
 
 💻 **Languages**: <br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=coffeescript&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-0064A5?logo=databricks&logoColor=white&style=for-the-badge)
 
 🌐 **Web Technologies**: <br>
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css&logoColor=white&style=for-the-badge)
 
@@ -74,7 +66,6 @@ A tool for generating QR codes from URLs. <br>
 
 🛠️ **Developer Tools**: <br>
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
 
 ---
 
