@@ -53,7 +53,13 @@ A fast light-weight Redis clone to be built with C++. <br>
 
 🛠️ **Developer Tools**: <br>
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)
+![ESLint](https://img.shields.io/badge/eslint-%234B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white)
+
+🎨 **Design & Collaboration**: <br>
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+
 
 ---
 
