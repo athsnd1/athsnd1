@@ -2,8 +2,6 @@
 
 3rd-year CS student | Exploring web development | Building academic & personal projects | Open to new opportunities and collaborations 
 
-![Profile Views](https://komarev.com/ghpvc/?username=athsnd1&label=Profile%20Views&color=blue&style=flat-square) 
-
 ---
 
 ### 🚀 My Projects:
@@ -54,7 +52,6 @@ A fast light-weight Redis clone to be built with C++. <br>
 🛠️ **Developer Tools**: <br>
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)
 ![ESLint](https://img.shields.io/badge/eslint-%234B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white)
 
 🎨 **Design & Collaboration**: <br>
@@ -65,27 +62,6 @@ A fast light-weight Redis clone to be built with C++. <br>
 
 
 ### 📊 GitHub Stats:
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=athsnd1&show_icons=true&theme=github_dark&hide_border=false)
-
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athsnd1&hide=html&hide_border=true&layout=compact&langs_count=8&theme=github_dark" alt="Top Languages">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=athsnd1&theme=github_dark&hide_border=false" alt="Repos Per Language">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=athsnd1&theme=github_dark&hide_border=false" alt="Most Commit Language">
-    </td>
-  </tr>
-</table>
-
-</div>
-
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=athsnd1&custom_title=Attah's%20GitHub%20Activity%20Graph&hide_border=false&border_radius=15&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=1F6FEB&area_color=161B22&title_color=C9D1D9&area=true" alt="GitHub Activity Graph" />
 
