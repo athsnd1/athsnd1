@@ -63,7 +63,16 @@ A fast light-weight Redis clone to be built with C++. <br>
 
 ### 📊 GitHub Stats:
 
+<div>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=athsnd1&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=athsnd1&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=athsnd1&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="top langs" />
+  <br/><br/>    
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=athsnd1&custom_title=Attah's%20GitHub%20Activity%20Graph&hide_border=false&border_radius=15&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=1F6FEB&area_color=161B22&title_color=C9D1D9&area=true" alt="GitHub Activity Graph" />
+  
+</div>
 
 
 ---
@@ -73,6 +82,7 @@ A fast light-weight Redis clone to be built with C++. <br>
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:athsnd.dev@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/athsnd1/)
+<a href="https://wa.me/+2347011589613" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat-square" /></a>
 
 
 ---
