@@ -64,13 +64,13 @@ A fast light-weight Redis clone to be built with C++. <br>
 ### 📊 GitHub Stats:
 
 <div>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=athsnd1&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=athsnd1&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=athsnd1&count_private=true&theme=tokyonight&border_radius=10&cache_bust=1" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=athsnd1&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&cache_bust=1" alt="readme stats" />
   <br/>
-  <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=athsnd1&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="top langs" />
+  <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=athsnd1&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&cache_bust=1" alt="top langs" />
   <br/><br/>    
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=athsnd1&custom_title=Attah's%20GitHub%20Activity%20Graph&hide_border=false&border_radius=15&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=1F6FEB&area_color=161B22&title_color=C9D1D9&area=true" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=athsnd1&custom_title=Attah's%20GitHub%20Activity%20Graph&hide_border=false&border_radius=15&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=1F6FEB&area_color=161B22&title_color=C9D1D9&area=true" alt="GitHub Activity Graph&cache_bust=1" />
   
 </div>
 
