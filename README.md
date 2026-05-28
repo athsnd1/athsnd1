@@ -1,22 +1,27 @@
-## 👋Hey there! I'm Attah
+## 👋 Hey there! I'm Attah
 
-3rd-year CS student | Exploring web development | Building academic & personal projects | Open to new opportunities and collaborations 
+3rd-year CS Student | Exploring web development | Building academic & personal projects | Open to new opportunities and collaborations 
 
 ---
 
-### 🚀 My Projects:
-**Completed:** <br>
-- **ARS:** <br>
-An offline GUI flight booking application built with Java, Swing, PostgreSQL and FlatLaf. Allows users to create accounts, log in (as admins or users), manage flights and users (for admins), book flights (for regular users), and also export flight tickets in various file formats. <br><br>
-**Tools:** `Java` `Swing` `PostgreSQL` `FlatLaf` `JDBC` <br> <br>
-[View Project Repo →](https://github.com/athsnd1/ARS)
+### 🪧 My Projects:
+**Completed Projects:** <br>
 
-<br>
+[ARS](https://github.com/athsnd1/ARS)
 
-- **CETRO:** <br>
-A Cost-Effective Transportation Service and Routing Ontology built using Protege with SPARQL integrated to retrieve data from the Ontology.<br><br>
-**Tools:** `Protege` `SPARQL` <br><br>
-[View Project Repo →](https://github.com/athsnd1/CETRO)
+An offline GUI flight booking application built with Java, Swing, PostgreSQL and FlatLaf. Allows users to create accounts, log in (as admins or users), manage flights and users (for admins), book flights (for regular users), and also export flight tickets in various file formats.
+
+**Tools:** `Java` `Swing` `PostgreSQL` `FlatLaf` `JDBC` 
+
+
+---
+
+
+[QURL](https://github.com/athsnd1/QURL)
+
+A utility for dynamically genrating QR codes from text or URLs. Built using the qrcode.react library. Supports downloads of the generated QR code.
+
+**Tools:** `React` `JavaScript` `HTML` `CSS` `qrcode.react` `PNPM`
 
 
 #
@@ -24,12 +29,16 @@ A Cost-Effective Transportation Service and Routing Ontology built using Protege
 
 **Ongoing/Future Projects:** <br>
   
-- **FourZeroFour:** <br>
-A simple HTTP Server to be built with C++. <br>
+[FourZeroFour](https://github.com/athsnd1/FourZeroFour)
+
+A simple HTTP Server to be built with C++. 
+
 **Tools:** `C++`
 
-- **FlashCache:** <br>
-A fast light-weight Redis clone to be built with C++. <br>
+[FlashCache](https://github.com/athsnd1/FlashCache)
+
+A fast light-weight Redis clone to be built with C++.
+
 **Tools:** `C++`
 
 ---
@@ -50,13 +59,12 @@ A fast light-weight Redis clone to be built with C++. <br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
-🛠️ **Developer Tools**: <br>
+⚒️ **Developer Tools**: <br>
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![ESLint](https://img.shields.io/badge/eslint-%234B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+
 
 🎨 **Design & Collaboration**: <br>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
