@@ -1,11 +1,12 @@
-## 👋 Hey there! I'm Attah
+### 👋 Hey there! I'm Attah
 
+---
 
 3rd-year CS student | Exploring web development | Building personal and academic projects | Open to new opportunities and collaborations
 
 ---
 
-### 🗄️ Projects:
+### 🗃️ Projects: <br> </br>
 
 [ARS](https://github.com/athsnd1/ARS) | `⭐ Stars: 0` • `🖇️ Forks: 0` • `🗓️ 2025`
 
@@ -25,7 +26,7 @@ A utility for dynamically genrating QR codes from text or URLs. Built using the 
 #
 
 
-[FourZeroFour](https://github.com/athsnd1/FourZeroFour) | `🔄 Ongoing`
+[FourZeroFour](https://github.com/athsnd1/FourZeroFour) | `🗓️ 2026` `🔄 Ongoing`
 
 A lightweight web/HTTP Server to be built with C++. 
 
@@ -34,7 +35,7 @@ A lightweight web/HTTP Server to be built with C++.
 #
 
 
-[Pioneer](https://github.com/athsnd1/FlashCache) | `🔄 Ongoing`
+[Pioneer](https://github.com/athsnd1/FlashCache) | `🗓️ 2026` `🔄 Ongoing`
 
 A tool for evangelizers to effectively manage their monthly field service reports and study sessions.
 
@@ -46,27 +47,23 @@ A tool for evangelizers to effectively manage their monthly field service report
 ### 🧰 Tech Stack:
 
 💻 **Languages**: <br>
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?logo=javascript&logoColor=F7DF1E&style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-161B22?logo=cplusplus&logoColor=659AD2&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-1A1A1A?logo=python&logoColor=3776AB&style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-181818?logo=openjdk&logoColor=ED8B00&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-111111?logo=javascript&logoColor=F7DF1E&style=for-the-badge)
+![C++](https://img.shields.io/badge/-161B22?logo=cplusplus&logoColor=659AD2&style=for-the-badge)
+![Python](https://img.shields.io/badge/-1A1A1A?logo=python&logoColor=3776AB&style=for-the-badge)
+![Java](https://img.shields.io/badge/-181818?logo=openjdk&logoColor=ED8B00&style=for-the-badge)
 
 🌐 **Web Technologies**: <br>
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-121212?logo=html5&logoColor=E34F26&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-151515?logo=css3&logoColor=1572B6&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-171717?logo=postgresql&logoColor=4169E1&style=for-the-badge)
-![Axios](https://img.shields.io/badge/Axios-141414?style=for-the-badge&logo=axios&logoColor=8A63FF)
+![React](https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/-121212?logo=html5&logoColor=E34F26&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-151515?logo=css&logoColor=1572B6&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-171717?logo=postgresql&logoColor=4169E1&style=for-the-badge)
 
 ⚒️ **Developer Tools**: <br>
-![Git](https://img.shields.io/badge/Git-111111?logo=git&logoColor=F05032&style=for-the-badge)
-![Vite](https://img.shields.io/badge/Vite-161616?style=for-the-badge&logo=vite&logoColor=8B5CF6)
-![Postman](https://img.shields.io/badge/Postman-1B1B1B?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![ESLint](https://img.shields.io/badge/ESLint-101820?style=for-the-badge&logo=eslint&logoColor=7C4DFF)
+![Git](https://img.shields.io/badge/-111111?logo=git&logoColor=F05032&style=for-the-badge)
+![Vite](https://img.shields.io/badge/-161616?style=for-the-badge&logo=vite&logoColor=8B5CF6)
+![Postman](https://img.shields.io/badge/-1B1B1B?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Figma](https://img.shields.io/badge/-121212?style=for-the-badge&logo=figma&logoColor=F24E1E)
 
-🎨 **Design & Collaboration**: <br>
-![Figma](https://img.shields.io/badge/Figma-121212?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
 
 
 
@@ -75,14 +72,17 @@ A tool for evangelizers to effectively manage their monthly field service report
 
 ### 📊 GitHub Stats:
 
+_[Last update: 28-05-26 | 18:20:35]_
+
 <div>
 
 **Activities:**
 ```
 Total Stars:     0
-Total Commits:   150+
+Total Commits:   30+ (2026)
 Total PRs:       3
 Total Repos:     16
+Contributions:   198
 ```
 
 **Top Languages:**
