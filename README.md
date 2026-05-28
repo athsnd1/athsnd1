@@ -19,27 +19,27 @@ An offline GUI flight booking application built with Java, Swing, PostgreSQL and
 
 [QURL](https://github.com/athsnd1/QURL) | `⭐ Stars: 0` • `🖇️ Forks: 0` • `🗓️ 2026`
 
-A utility for dynamically genrating QR codes from text or URLs. Built using the qrcode.react library. Supports downloads of the generated QR code.
+A utility for dynamically generating QR codes from text or URLs. Built using the qrcode.react library. Supports downloads of the generated QR code.
 
-**Tools:** `React` `JavaScript` `HTML\CSS` `qrcode.react` `PNPM`
-
-#
-
-
-[FourZeroFour](https://github.com/athsnd1/FourZeroFour) | `🗓️ 2026` `🔄 Ongoing`
-
-A lightweight web/HTTP Server to be built with C++. 
-
-**Tools:** `C++` `CMake`
+**Tools:** `React` `qrcode.react` `JavaScript` `HTML\CSS`
 
 #
 
 
-[Pioneer](https://github.com/athsnd1/FlashCache) | `🗓️ 2026` `🔄 Ongoing`
+[Voiceless](https://github.com/athsnd1/Voiceless) | `🗓️ 2026` `🔄 Ongoing` `🎼`
+
+A web application that lets users upload a song and automatically separates it into individual audio stems such as vocals and instrumentals using an AI model. 
+
+**Tools:** `React` `FastAPI` `Spleeter/demucs` `FFMpeg` 
+
+#
+
+
+[Pioneer](https://github.com/athsnd1/FlashCache) | `🗓️ 2026` `🔄 Ongoing` `⛪`
 
 A tool for evangelizers to effectively manage their monthly field service reports and study sessions.
 
-**Tools:** `React` `JavaScript` `HTML\CSS`
+**Tools:** `React` `JavaScript` `HTML\CSS` `PostgreSQL`
 
 ---
 
@@ -70,9 +70,9 @@ A tool for evangelizers to effectively manage their monthly field service report
 ---
 
 
-### 📊 GitHub Stats:
+###  GitHub Stats:
 
-_[Last update: 28-05-26 | 18:20:35]_
+_[Last updated: 28-05-26 | 21:25:45]_
 
 <div>
 
