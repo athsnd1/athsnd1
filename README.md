@@ -46,19 +46,19 @@ A tool for evangelizers to effectively manage their monthly field service report
 
 ### 🧰 Tech Stack:
 
-💻 **Languages**: <br>
+**Languages**: <br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?logo=javascript&logoColor=F7DF1E&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-161B22?logo=cplusplus&logoColor=659AD2&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-1A1A1A?logo=python&logoColor=3776AB&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-181818?logo=openjdk&logoColor=ED8B00&style=for-the-badge)
 
-🌐 **Web Technologies**: <br>
+**Web Technologies**: <br>
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML-121212?logo=html5&logoColor=E34F26&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS-151515?logo=css&logoColor=1572B6&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-171717?logo=postgresql&logoColor=4169E1&style=for-the-badge)
 
-⚒️ **Developer Tools**: <br>
+**Developer Tools**: <br>
 ![Git](https://img.shields.io/badge/Git-111111?logo=git&logoColor=F05032&style=for-the-badge)
 ![Vite](https://img.shields.io/badge/Vite-161616?style=for-the-badge&logo=vite&logoColor=8B5CF6)
 ![Postman](https://img.shields.io/badge/Postman-1B1B1B?style=for-the-badge&logo=postman&logoColor=FF6C37)
@@ -70,7 +70,7 @@ A tool for evangelizers to effectively manage their monthly field service report
 ---
 
 
-###  GitHub Stats:
+### 📊 GitHub Stats:
 
 _[Last updated: 28-05-26 | 21:25:45]_
 
