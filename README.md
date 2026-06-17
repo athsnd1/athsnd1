@@ -54,6 +54,8 @@ A tool for evangelizers to effectively manage their monthly field service report
 
 **Web Technologies**: <br>
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-121212?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
+![Vercel](https://img.shields.io/badge/Vercel-121212?style=for-the-badge&logo=vercel&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-121212?logo=html5&logoColor=E34F26&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS-151515?logo=css&logoColor=1572B6&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-171717?logo=postgresql&logoColor=4169E1&style=for-the-badge)
@@ -72,17 +74,17 @@ A tool for evangelizers to effectively manage their monthly field service report
 
 ### 📊 GitHub Stats:
 
-_[Last updated: 28-05-26 | 21:25:45]_
+_[Last updated: 17-06-26 | 09:25:45]_
 
 <div>
 
 **Activities:**
 ```
 Total Stars:     0
-Total Commits:   30+ (2026)
+Total Commits:   40+ (2026)
 Total PRs:       3
-Total Repos:     16
-Contributions:   198
+Total Repos:     18
+Contributions:   150+
 ```
 
 **Top Languages:**
