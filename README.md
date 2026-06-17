@@ -54,8 +54,11 @@ A tool for evangelizers to effectively manage their monthly field service report
 
 **Web Technologies**: <br>
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-1C1A1A?style=for-the-badge&logo=node.js&logoColor=5FA04E)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-121212?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
 ![Vercel](https://img.shields.io/badge/Vercel-121212?style=for-the-badge&logo=vercel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-202225?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Nginx](https://img.shields.io/badge/Nginx-1F1F1F?style=for-the-badge&logo=nginx&logoColor=009639)
 ![HTML5](https://img.shields.io/badge/HTML-121212?logo=html5&logoColor=E34F26&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS-151515?logo=css&logoColor=1572B6&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-171717?logo=postgresql&logoColor=4169E1&style=for-the-badge)
